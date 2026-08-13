@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-09T12:22:34Z",
+            "last_commit": "2026-08-13T13:58:25Z",
             "owner": "jcsteh",
             "repo": "osara",
             "stars": 156
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-09T15:52:18Z",
             "owner": "JoepVanlier",
             "repo": "JSFX",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-29T22:31:46Z",
             "owner": "TukanStudios",
             "repo": "TUKAN_STUDIOS_PLUGINS",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313644
+            "stars": 313761
           }
         },
         {
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:21.267Z",
+    "last_updated": "2026-08-13T17:34:33.765Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
