@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SWS / S&M extension",
+          "description": "A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. Repo, Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-10T08:49:11Z",
+            "owner": "reaper-oss",
+            "repo": "sws",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReaPack",
+          "description": "Package manager for Reaper. Discover, install and keep up to date your Reaper resources. Repo, Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-06-03T09:00:48Z",
+            "owner": "cfillion",
+            "repo": "reapack",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSARA",
+          "description": "REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. Repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T12:22:34Z",
+            "owner": "jcsteh",
+            "repo": "osara",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReaLlm",
+          "description": "Low latency monitoring plug-in extension (automatically bypass plugins adding latency). Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T06:13:36Z",
+            "owner": "ak5k",
+            "repo": "reallm",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JoepVanlier/JSFX",
+          "description": "A bundle of JSFX and scripts by Joep Vanlier (aka saike).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-09T15:52:18Z",
+            "owner": "JoepVanlier",
+            "repo": "JSFX",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TukanStudios/JSFX",
+          "description": "A bundle of JSFX by John Matthews (Tukan Studios). Repo, Youtube forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-29T22:31:46Z",
+            "owner": "TukanStudios",
+            "repo": "TUKAN_STUDIOS_PLUGINS",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geraintluff/jsfx",
+          "description": "Collection of JSFX effects by Geraint Luff (aka geraintluff). Repo, Youtube playlist, forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-07-31T10:54:08Z",
+            "owner": "geraintluff",
+            "repo": "jsfx",
+            "stars": 222
+          }
+        }
+      ],
+      "title": "JSFX"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReaTeam ReaScripts",
+          "description": "Community-maintained collection of scripts for REAPER",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-31T14:04:05Z",
+            "owner": "ReaTeam",
+            "repo": "ReaScripts",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stem Manager",
+          "description": "Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. Repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-04T06:58:44Z",
+            "owner": "odedd",
+            "repo": "ReaScripts",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Scripts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scripting and JSFX development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReaImGui",
+          "description": "ReaImGui: ReaScript binding for Dear ImGui.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-06-03T08:03:11Z",
+            "owner": "cfillion",
+            "repo": "reaimgui",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReaScripts-Templates",
+          "description": "Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations. Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-23T15:56:55Z",
+            "owner": "ReaTeam",
+            "repo": "ReaScripts-Templates",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReaImGui Knobs",
+          "description": "A port of imgui-rs-knobs to lua for ReaImGui by Antoine Balaine. Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-16T14:01:02Z",
+            "owner": "AntoineBalaine",
+            "repo": "perken-reaper-scripts",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "General resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CookDSP",
+          "description": "DSP library for JSFX by Olivier Bélanger. Repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-05T05:07:50Z",
+            "owner": "belangeo",
+            "repo": "cookdsp",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS2EEL",
+          "description": "A compiler that enables you to write REAPER JSFX in JavaScript by Daniel Schebesta. Repo. Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-28T07:43:49Z",
+            "owner": "steeelydan",
+            "repo": "js2eel",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBase",
+          "description": "A \"multi in multi out modern compiler\" and JSFX/EEL-to-VST Building system. Forum thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-25T18:16:55Z",
+            "owner": "VisualCodeBase",
+            "repo": "CodeBase",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "JSFX / EEL2 resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lua resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python Documentation",
+          "description": "The official Python documentation. See also awesome-python/Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua Documentation",
+          "description": "The official Lua documentation. See also: awesome-lua/Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T17:32:00Z",
+            "owner": "LewisJEllis",
+            "repo": "awesome-lua",
+            "stars": 4550
+          }
+        }
+      ],
+      "title": "General documentation and resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chats"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:21.267Z",
+    "original_repository": "indiscipline/awesome-reaper",
+    "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
+    "enhanced_repository": "enhansome/enhansome-reaper",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web sites with stars"
+  }
+}
