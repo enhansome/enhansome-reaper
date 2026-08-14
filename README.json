@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T13:58:25Z",
+            "last_commit": "2026-08-14T13:11:53Z",
             "owner": "jcsteh",
             "repo": "osara",
             "stars": 156
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-09T15:52:18Z",
             "owner": "JoepVanlier",
             "repo": "JSFX",
-            "stars": 629
+            "stars": 632
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2023-07-31T10:54:08Z",
             "owner": "geraintluff",
             "repo": "jsfx",
-            "stars": 222
+            "stars": 223
           }
         }
       ],
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-31T14:04:05Z",
+            "last_commit": "2026-08-14T15:52:53Z",
             "owner": "ReaTeam",
             "repo": "ReaScripts",
             "stars": 400
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313761
+            "stars": 313953
           }
         },
         {
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:34:33.765Z",
+    "last_updated": "2026-08-14T17:33:40.118Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
