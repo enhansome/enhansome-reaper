@@ -49,9 +49,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Extensions
 
-* [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 570 | 🐛 501 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
+* [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 571 | 🐛 501 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
 * [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack) ⚠️ Archived, [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
-* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 156 | 🐛 157 | 🌐 C++ | 📅 2026-08-14.
+* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 157 | 🐛 153 | 🌐 C++ | 📅 2026-08-15.
 * [ReaLlm](https://github.com/ak5k/reallm) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
 
 ## Software and tools
@@ -66,7 +66,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Scripts
 
-* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 400 | 🐛 24 | 🌐 Lua | 📅 2026-08-14 - Community-maintained collection of scripts for REAPER
+* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 401 | 🐛 24 | 🌐 Lua | 📅 2026-08-14 - Community-maintained collection of scripts for REAPER
 * [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2026-01-04.
 
 ## Video Editing
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 313,953 | 🐛 26 | 🌐 Python | 📅 2026-08-05.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,550 | 🐛 47 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 314,109 | 🐛 27 | 🌐 Python | 📅 2026-08-05.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,551 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
