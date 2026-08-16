@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T03:24:39Z",
+            "last_commit": "2026-08-15T18:53:04Z",
             "owner": "jcsteh",
             "repo": "osara",
             "stars": 157
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-04-29T22:31:46Z",
+            "last_commit": "2026-08-16T10:45:22Z",
             "owner": "TukanStudios",
             "repo": "TUKAN_STUDIOS_PLUGINS",
             "stars": 358
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T15:52:53Z",
+            "last_commit": "2026-08-15T23:30:03Z",
             "owner": "ReaTeam",
             "repo": "ReaScripts",
             "stars": 401
@@ -271,10 +271,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314109
+            "stars": 314253
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4551
+            "stars": 4552
           }
         }
       ],
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:54:44.781Z",
+    "last_updated": "2026-08-16T16:55:14.253Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
