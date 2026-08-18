@@ -76,7 +76,7 @@
             "last_commit": "2026-08-09T15:52:18Z",
             "owner": "JoepVanlier",
             "repo": "JSFX",
-            "stars": 633
+            "stars": 627
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314445
+            "stars": 314653
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4552
+            "stars": 4553
           }
         }
       ],
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:58:43.231Z",
+    "last_updated": "2026-08-18T17:00:34.008Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
