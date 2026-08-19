@@ -51,7 +51,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 * [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 571 | 🐛 502 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
 * [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack) ⚠️ Archived, [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
-* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 158 | 🐛 153 | 🌐 C++ | 📅 2026-08-19.
+* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 158 | 🐛 155 | 🌐 C++ | 📅 2026-08-19.
 * [ReaLlm](https://github.com/ak5k/reallm) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
 
 ## Software and tools
@@ -107,7 +107,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 314,855 | 🐛 18 | 🌐 Python | 📅 2026-08-16.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 314,909 | 🐛 18 | 🌐 Python | 📅 2026-08-16.
 * [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,554 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
