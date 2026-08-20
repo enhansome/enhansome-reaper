@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 28654590,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:50:20Z",
+                "last_commit": "2026-08-20T12:15:28Z",
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 158
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 46741198,
                 "language": "Lua",
-                "last_commit": "2026-08-15T23:30:03Z",
+                "last_commit": "2026-08-20T13:57:17Z",
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
                 "stars": 401
@@ -288,7 +288,7 @@
                         "last_commit": "2026-08-16T13:31:43Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 314909
+                        "stars": 315110
                       }
                     },
                     {
@@ -303,7 +303,7 @@
                         "last_commit": "2024-08-11T17:32:00Z",
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4554
+                        "stars": 4555
                       }
                     }
                   ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:58:59.095Z",
+    "last_updated": "2026-08-20T17:04:00.542Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_id": 627034947,
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
