@@ -285,10 +285,10 @@
                         "archived": false,
                         "id": 21289110,
                         "language": "Python",
-                        "last_commit": "2026-08-16T13:31:43Z",
+                        "last_commit": "2026-08-21T14:25:23Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 315110
+                        "stars": 315285
                       }
                     },
                     {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:04:00.542Z",
+    "last_updated": "2026-08-21T17:03:34.590Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_id": 627034947,
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",

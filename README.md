@@ -107,7 +107,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,110 | 🐛 17 | 🌐 Python | 📅 2026-08-16.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,285 | 🐛 17 | 🌐 Python | 📅 2026-08-21.
 * [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
