@@ -60,8 +60,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## JSFX
 
-* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 627 | 🐛 11 | 🌐 Lua | 📅 2026-08-09 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
-* [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). [Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS) ⭐ 361 | 🐛 24 | 🌐 HTML | 📅 2026-08-16, [Youtube](https://www.youtube.com/@johnmatthews8435) [forum thread](https://forums.cockos.com/showthread.php?p=2506848).
+* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 628 | 🐛 11 | 🌐 Lua | 📅 2026-08-09 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
+* [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). [Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS) ⭐ 360 | 🐛 24 | 🌐 HTML | 📅 2026-08-16, [Youtube](https://www.youtube.com/@johnmatthews8435) [forum thread](https://forums.cockos.com/showthread.php?p=2506848).
 * [geraintluff/jsfx](https://geraintluff.github.io/jsfx/) - Collection of JSFX effects by Geraint Luff (aka geraintluff). [Repo](https://github.com/geraintluff/jsfx) ⭐ 223 | 🐛 5 | 🌐 HTML | 📅 2023-07-31, [Youtube playlist](https://www.youtube.com/watch?v=QLh6b88OvFs\&list=PLflIiXZOocKqgKexrkTxxtl6igGUWnpXK), [forum thread](https://forums.cockos.com/showthread.php?t=186554).
 
 ## Scripts
@@ -107,7 +107,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,285 | 🐛 17 | 🌐 Python | 📅 2026-08-21.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,479 | 🐛 23 | 🌐 Python | 📅 2026-08-22.
 * [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
