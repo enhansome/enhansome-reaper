@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-10T08:49:11Z",
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 571
+                "stars": 572
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-09T15:52:18Z",
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
-                "stars": 628
+                "stars": 629
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-16T10:45:22Z",
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 360
+                "stars": 362
               }
             },
             {
@@ -285,10 +285,10 @@
                         "archived": false,
                         "id": 21289110,
                         "language": "Python",
-                        "last_commit": "2026-08-22T16:53:05Z",
+                        "last_commit": "2026-08-23T08:02:10Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 315479
+                        "stars": 315644
                       }
                     },
                     {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:54:58.723Z",
+    "last_updated": "2026-08-23T16:55:54.622Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_id": 627034947,
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
