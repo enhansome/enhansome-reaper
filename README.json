@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-10T08:49:11Z",
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 572
+                "stars": 574
               }
             },
             {
@@ -69,6 +69,28 @@
           "description": null,
           "node_type": "group",
           "title": "Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ReaBoot",
+              "description": "A convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages by Helgoboss. Repo, Forum thread",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773519904,
+                "language": "Rust",
+                "last_commit": "2026-03-02T10:08:37Z",
+                "owner": "helgoboss",
+                "repo": "reaboot",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Software and tools"
         },
         {
           "children": [
@@ -136,7 +158,7 @@
                 "last_commit": "2026-08-20T13:57:17Z",
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 401
+                "stars": 402
               }
             },
             {
@@ -158,6 +180,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scripts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ogler",
+              "description": "VST plugin for writing video processing effects using GLSL shaders in Reaper. Forum thread.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630627947,
+                "language": "C++",
+                "last_commit": "2023-11-23T13:10:54Z",
+                "owner": "frabert",
+                "repo": "ogler",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Editing"
         },
         {
           "children": [
@@ -275,6 +319,28 @@
             {
               "children": [
                 {
+                  "node_type": "item",
+                  "title": "ReaScript VSCode Extension",
+                  "description": "Reaper's ReaScript API methods in Visual Studio Code. Forum thread, Repo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 661360199,
+                    "language": "Lua",
+                    "last_commit": "2025-12-12T22:30:12Z",
+                    "owner": "AntoineBalaine",
+                    "repo": "vscode-reascript-extension",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Development tools"
+            },
+            {
+              "children": [
+                {
                   "children": [
                     {
                       "node_type": "item",
@@ -285,10 +351,10 @@
                         "archived": false,
                         "id": 21289110,
                         "language": "Python",
-                        "last_commit": "2026-08-23T08:02:10Z",
+                        "last_commit": "2026-08-24T06:42:58Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 315644
+                        "stars": 315802
                       }
                     },
                     {
@@ -315,6 +381,101 @@
               "description": null,
               "node_type": "group",
               "title": "Documentation"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "reaper-with-typescript-starter",
+                      "description": "JavaScript/TypeScript Reaper API bindings and a script template utilizing the TypeScriptToLua transpiler. Forum Thread.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 328019351,
+                        "language": "Lua",
+                        "last_commit": "2021-01-08T21:58:48Z",
+                        "owner": "GavinRay97",
+                        "repo": "reaper-with-typescript-starter",
+                        "stars": 22
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "JavaScript/TypeScript"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "ReaperExtensionNim",
+                      "description": "Nim bindings for the Reaper API.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 394070872,
+                        "language": "Nim",
+                        "last_commit": "2023-08-07T16:21:44Z",
+                        "owner": "Alkamist",
+                        "repo": "ReaperExtensionNim",
+                        "stars": 3
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Nim"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "reapy-boost",
+                      "description": "reapy is a pythonic wrapper around the quite unpythonic ReaScript Python API for Reaper.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 245484484,
+                        "language": "Python",
+                        "last_commit": "2022-12-22T12:35:52Z",
+                        "owner": "Levitanus",
+                        "repo": "reapy-boost",
+                        "stars": 30
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Python"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "reaper-rs",
+                      "description": "Rust bindings for the Reaper C++ API.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 236808376,
+                        "language": "Rust",
+                        "last_commit": "2026-06-17T07:09:27Z",
+                        "owner": "helgoboss",
+                        "repo": "reaper-rs",
+                        "stars": 119
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Rust"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Libraries"
             }
           ],
           "description": null,
@@ -326,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:55:54.622Z",
+    "last_updated": "2026-08-24T14:41:41.809Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_id": 627034947,
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",

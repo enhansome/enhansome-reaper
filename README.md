@@ -49,7 +49,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Extensions
 
-* [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 572 | 🐛 502 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
+* [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 574 | 🐛 502 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
 * [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack) ⚠️ Archived, [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
 * [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 158 | 🐛 151 | 🌐 C++ | 📅 2026-08-20.
 * [ReaLlm](https://github.com/ak5k/reallm) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
@@ -66,7 +66,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Scripts
 
-* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 401 | 🐛 25 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
+* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 402 | 🐛 25 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
 * [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2026-01-04.
 
 ## Video Editing
@@ -107,7 +107,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,644 | 🐛 16 | 🌐 Python | 📅 2026-08-23.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 315,802 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
 * [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
