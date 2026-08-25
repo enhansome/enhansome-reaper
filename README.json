@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-10T08:49:11Z",
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 574
+                "stars": 575
               }
             },
             {
@@ -354,7 +354,7 @@
                         "last_commit": "2026-08-25T04:08:40Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 315924
+                        "stars": 316010
                       }
                     },
                     {
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:07.459Z",
+    "last_updated": "2026-08-25T17:08:16.989Z",
     "original_repository": "indiscipline/awesome-reaper",
     "original_repository_id": 627034947,
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
