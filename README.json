@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T12:15:28Z",
                 "owner": "jcsteh",
                 "repo": "osara",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -354,7 +354,7 @@
                         "last_commit": "2026-08-25T04:08:40Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 316221
+                        "stars": 316381
                       }
                     },
                     {
@@ -464,7 +464,7 @@
                         "last_commit": "2026-06-17T07:09:27Z",
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
-                        "stars": 119
+                        "stars": 120
                       }
                     }
                   ],
@@ -487,9 +487,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:20:46.043Z",
-    "original_repository": "indiscipline/awesome-reaper",
-    "original_repository_id": 627034947,
+    "last_updated": "2026-08-27T12:00:49.103Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 627034947,
+      "language": null,
+      "last_commit": "2025-01-22T12:05:43Z",
+      "owner": "indiscipline",
+      "repo": "awesome-reaper",
+      "stars": 134
+    },
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
     "enhanced_repository_description": null,
