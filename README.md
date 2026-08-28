@@ -56,7 +56,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Software and tools
 
-* [ReaBoot](https://reaboot.com/) - A convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages by Helgoboss. [Repo](https://github.com/helgoboss/reaboot) ⭐ 11 | 🐛 5 | 🌐 Rust | 📅 2026-03-02, [Forum thread](https://forums.cockos.com/showthread.php?p=2773571)
+* [ReaBoot](https://reaboot.com/) - A convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages by Helgoboss. [Repo](https://github.com/helgoboss/reaboot) ⭐ 12 | 🐛 5 | 🌐 Rust | 📅 2026-03-02, [Forum thread](https://forums.cockos.com/showthread.php?p=2773571)
 
 ## JSFX
 
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 316,381 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,556 | 🐛 47 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 316,522 | 🐛 16 | 🌐 Python | 📅 2026-08-25.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,557 | 🐛 47 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
