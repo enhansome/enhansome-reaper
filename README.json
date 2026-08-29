@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SWS extension is a collection of features that seamlessly integrate into REAPER, the Digital Audio Workstation (DAW) software by Cockos, Inc",
+                "homepage": "https://www.sws-extension.org/",
                 "id": 21614326,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
+                "open_issues": 503,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 577
+                "stars": 577,
+                "topics": [
+                  "reaper",
+                  "reaper-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -28,12 +36,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📦 Package manager for REAPER",
+                "homepage": "https://reapack.com",
                 "id": 46678426,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-03T09:00:48Z",
+                "open_issues": 18,
                 "owner": "cfillion",
                 "repo": "reapack",
-                "stars": 424
+                "stars": 424,
+                "topics": [
+                  "package-manager",
+                  "reapack",
+                  "reaper",
+                  "reaper-plugin",
+                  "wdl"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -44,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSARA: Open Source Accessibility for the REAPER Application",
+                "homepage": null,
                 "id": 28654590,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T18:57:11Z",
+                "open_issues": 151,
                 "owner": "jcsteh",
                 "repo": "osara",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -60,12 +84,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cubase/Logic style low latency monitoring mode extension for REAPER.",
+                "homepage": null,
                 "id": 456113641,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-20T06:13:36Z",
+                "open_issues": 0,
                 "owner": "ak5k",
                 "repo": "reallm",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "reaper",
+                  "reaper-plugin",
+                  "reaper-scripts"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             }
@@ -83,12 +116,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReaBoot is a convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages.",
+                "homepage": "https://reaboot.com",
                 "id": 773519904,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-02T10:08:37Z",
+                "open_issues": 5,
                 "owner": "helgoboss",
                 "repo": "reaboot",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "installer",
+                  "packages",
+                  "reapack",
+                  "reaper"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             }
@@ -106,12 +149,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bundle of JSFX and scripts for reaper.",
+                "homepage": null,
                 "id": 132263529,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-09T15:52:18Z",
+                "open_issues": 11,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
-                "stars": 631
+                "stars": 631,
+                "topics": [
+                  "jesusonic",
+                  "jsfx",
+                  "reaper",
+                  "reaper-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -122,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSFX Plugins for Reaper",
+                "homepage": null,
                 "id": 438672944,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-16T10:45:22Z",
+                "open_issues": 25,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 363
+                "stars": 363,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -138,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of JSFX effects",
+                "homepage": "https://geraintluff.github.io/jsfx/",
                 "id": 68926703,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-31T10:54:08Z",
+                "open_issues": 5,
                 "owner": "geraintluff",
                 "repo": "jsfx",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             }
@@ -161,12 +224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community-maintained collection of scripts for REAPER",
+                "homepage": "https://reapack.com/upload/reascript",
                 "id": 46741198,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-20T13:57:17Z",
+                "open_issues": 25,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 403
+                "stars": 403,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             },
@@ -177,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odedd's Reaper scripts",
+                "homepage": null,
                 "id": 510477016,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-04T06:58:44Z",
+                "open_issues": 1,
                 "owner": "odedd",
                 "repo": "ReaScripts",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             }
@@ -200,12 +273,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use GLSL shaders in REAPER",
+                "homepage": null,
                 "id": 630627947,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-23T13:10:54Z",
+                "open_issues": 4,
                 "owner": "frabert",
                 "repo": "ogler",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "cpp",
+                  "reaper",
+                  "reaper-plugin",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
             }
@@ -225,12 +308,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ReaScript binding and REAPER backend for the Dear ImGui toolkit.",
+                    "homepage": "https://forum.cockos.com/showthread.php?t=250419",
                     "id": 335864278,
                     "language": "C++",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-06-03T08:03:11Z",
+                    "open_issues": 4,
                     "owner": "cfillion",
                     "repo": "reaimgui",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "binding",
+                      "dear-imgui",
+                      "imgui",
+                      "reaper",
+                      "reaper-plugin",
+                      "reascript"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 },
@@ -241,12 +336,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Templates, models, boilerplates, examples and snippets for REAPER ReaScript.",
+                    "homepage": null,
                     "id": 50602976,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-01-23T15:56:55Z",
+                    "open_issues": 0,
                     "owner": "ReaTeam",
                     "repo": "ReaScripts-Templates",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 },
@@ -257,12 +357,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some personal scripts for Reaper",
+                    "homepage": null,
                     "id": 660780639,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-16T14:01:02Z",
+                    "open_issues": 0,
                     "owner": "AntoineBalaine",
                     "repo": "perken-reaper-scripts",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 }
@@ -280,12 +385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DSP library for Reaper’s plugin language JS",
+                    "homepage": null,
                     "id": 35001922,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-03-05T05:07:50Z",
+                    "open_issues": 8,
                     "owner": "belangeo",
                     "repo": "cookdsp",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 },
@@ -296,12 +406,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A compiler that enables you to write REAPER JSFX in JavaScript",
+                    "homepage": "https://js2eel.org",
                     "id": 680947346,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-08-28T07:43:49Z",
+                    "open_issues": 0,
                     "owner": "steeelydan",
                     "repo": "js2eel",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "audio",
+                      "audio-dsp",
+                      "audio-plugin",
+                      "audio-processing",
+                      "compiler",
+                      "dsp",
+                      "eel",
+                      "eel2",
+                      "jsfx",
+                      "reaper",
+                      "recording",
+                      "vst"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 },
@@ -312,12 +440,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Power, Rich, Modern Programming Language",
+                    "homepage": null,
                     "id": 312390072,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-03-25T18:16:55Z",
+                    "open_issues": 0,
                     "owner": "VisualCodeBase",
                     "repo": "CodeBase",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 }
@@ -342,12 +475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 661360199,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-12-12T22:30:12Z",
+                    "open_issues": 3,
                     "owner": "AntoineBalaine",
                     "repo": "vscode-reascript-extension",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:51.738Z"
                 }
@@ -367,12 +505,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                        "homepage": "https://awesome-python.com/",
                         "id": 21289110,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-25T04:08:40Z",
+                        "open_issues": 19,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 316778
+                        "stars": 316811,
+                        "topics": [
+                          "awesome",
+                          "awesome-list",
+                          "python",
+                          "python-frameworks",
+                          "python-libraries",
+                          "python-tools"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     },
@@ -383,12 +533,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of quality Lua packages and resources.",
+                        "homepage": null,
                         "id": 23039606,
                         "language": null,
+                        "license": null,
                         "last_commit": "2024-08-11T17:32:00Z",
+                        "open_issues": 48,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4559
+                        "stars": 4559,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     }
@@ -413,12 +568,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 328019351,
                         "language": "Lua",
+                        "license": null,
                         "last_commit": "2021-01-08T21:58:48Z",
+                        "open_issues": 0,
                         "owner": "GavinRay97",
                         "repo": "reaper-with-typescript-starter",
-                        "stars": 22
+                        "stars": 22,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     }
@@ -436,12 +596,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 394070872,
                         "language": "Nim",
+                        "license": null,
                         "last_commit": "2023-08-07T16:21:44Z",
+                        "open_issues": 0,
                         "owner": "Alkamist",
                         "repo": "ReaperExtensionNim",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     }
@@ -459,12 +624,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A pythonic wrapper for REAPER's ReaScript Python API",
+                        "homepage": null,
                         "id": 245484484,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-12-22T12:35:52Z",
+                        "open_issues": 5,
                         "owner": "Levitanus",
                         "repo": "reapy-boost",
-                        "stars": 30
+                        "stars": 30,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     }
@@ -482,12 +652,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Rust bindings for the REAPER C++ API",
+                        "homepage": null,
                         "id": 236808376,
                         "language": "Rust",
+                        "license": "MIT",
                         "last_commit": "2026-06-17T07:09:27Z",
+                        "open_issues": 25,
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
-                        "stars": 120
+                        "stars": 120,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
                     }
@@ -511,15 +686,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:51.738Z",
+    "last_updated": "2026-08-29T04:56:04.670Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
+      "homepage": null,
       "id": 627034947,
       "language": null,
+      "license": null,
       "last_commit": "2025-01-22T12:05:43Z",
+      "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 134
+      "stars": 134,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "daw",
+        "jsfx",
+        "reaper",
+        "reaper-scripts"
+      ]
     },
     "original_repository_sha": "c0bee7af1353589f308503402db2eb9191456865",
     "enhanced_repository": "enhansome/enhansome-reaper",
