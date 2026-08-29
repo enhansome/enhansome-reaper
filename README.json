@@ -17,8 +17,9 @@
                 "last_commit": "2026-05-10T08:49:11Z",
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 575
-              }
+                "stars": 577
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "cfillion",
                 "repo": "reapack",
                 "stars": 424
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 28654590,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:15:28Z",
+                "last_commit": "2026-08-28T18:57:11Z",
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ak5k",
                 "repo": "reallm",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "helgoboss",
                 "repo": "reaboot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
                 "stars": 631
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -121,8 +127,9 @@
                 "last_commit": "2026-08-16T10:45:22Z",
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 362
-              }
+                "stars": 363
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "geraintluff",
                 "repo": "jsfx",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             }
           ],
           "description": null,
@@ -158,8 +166,9 @@
                 "last_commit": "2026-08-20T13:57:17Z",
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 402
-              }
+                "stars": 403
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "odedd",
                 "repo": "ReaScripts",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             }
           ],
           "description": null,
@@ -196,7 +206,8 @@
                 "owner": "frabert",
                 "repo": "ogler",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:38:51.738Z"
             }
           ],
           "description": null,
@@ -220,7 +231,8 @@
                     "owner": "cfillion",
                     "repo": "reaimgui",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +247,8 @@
                     "owner": "ReaTeam",
                     "repo": "ReaScripts-Templates",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "AntoineBalaine",
                     "repo": "perken-reaper-scripts",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 }
               ],
               "description": null,
@@ -272,7 +286,8 @@
                     "owner": "belangeo",
                     "repo": "cookdsp",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 },
                 {
                   "node_type": "item",
@@ -287,7 +302,8 @@
                     "owner": "steeelydan",
                     "repo": "js2eel",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +318,8 @@
                     "owner": "VisualCodeBase",
                     "repo": "CodeBase",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 }
               ],
               "description": null,
@@ -331,7 +348,8 @@
                     "owner": "AntoineBalaine",
                     "repo": "vscode-reascript-extension",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:38:51.738Z"
                 }
               ],
               "description": null,
@@ -354,8 +372,9 @@
                         "last_commit": "2026-08-25T04:08:40Z",
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 316522
-                      }
+                        "stars": 316778
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     },
                     {
                       "node_type": "item",
@@ -369,8 +388,9 @@
                         "last_commit": "2024-08-11T17:32:00Z",
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4557
-                      }
+                        "stars": 4559
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     }
                   ],
                   "description": null,
@@ -399,7 +419,8 @@
                         "owner": "GavinRay97",
                         "repo": "reaper-with-typescript-starter",
                         "stars": 22
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     }
                   ],
                   "description": null,
@@ -421,7 +442,8 @@
                         "owner": "Alkamist",
                         "repo": "ReaperExtensionNim",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     }
                   ],
                   "description": null,
@@ -443,7 +465,8 @@
                         "owner": "Levitanus",
                         "repo": "reapy-boost",
                         "stars": 30
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     }
                   ],
                   "description": null,
@@ -465,7 +488,8 @@
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
                         "stars": 120
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:38:51.738Z"
                     }
                   ],
                   "description": null,
@@ -487,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:05:33.838Z",
+    "last_updated": "2026-08-29T00:38:51.738Z",
     "original_repository_info": {
       "archived": false,
       "id": 627034947,
