@@ -66,7 +66,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Scripts
 
-* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 403 | 🐛 25 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
+* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 404 | 🐛 26 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
 * [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2026-01-04.
 
 ## Video Editing
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 317,162 | 🐛 17 | 🌐 Python | 📅 2026-08-25.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,561 | 🐛 48 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 317,389 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,563 | 🐛 48 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
