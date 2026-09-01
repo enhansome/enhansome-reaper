@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
-                "open_issues": 503,
+                "open_issues": 502,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 577,
+                "stars": 578,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -510,11 +510,11 @@
                         "id": 21289110,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-08-25T04:08:40Z",
-                        "open_issues": 18,
+                        "last_commit": "2026-09-01T08:48:12Z",
+                        "open_issues": 16,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 317389,
+                        "stars": 317728,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -539,10 +539,10 @@
                         "language": null,
                         "license": null,
                         "last_commit": "2024-08-11T17:32:00Z",
-                        "open_issues": 48,
+                        "open_issues": 49,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4563,
+                        "stars": 4564,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:35:53.612Z",
+    "last_updated": "2026-09-01T19:31:38.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
@@ -698,7 +698,7 @@
       "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 134,
+      "stars": 135,
       "topics": [
         "awesome",
         "awesome-list",
