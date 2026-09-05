@@ -21,7 +21,7 @@
                 "open_issues": 504,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -155,7 +155,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-08-09T15:52:18Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
                 "stars": 632,
@@ -184,7 +184,7 @@
                 "open_issues": 25,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-01T08:48:12Z",
-                        "open_issues": 17,
+                        "open_issues": 16,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 318253,
+                        "stars": 318465,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -539,7 +539,7 @@
                         "language": null,
                         "license": null,
                         "last_commit": "2024-08-11T17:32:00Z",
-                        "open_issues": 49,
+                        "open_issues": 50,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
                         "stars": 4566,
@@ -661,7 +661,7 @@
                         "open_issues": 25,
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
-                        "stars": 120,
+                        "stars": 121,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:05:54.655Z",
+    "last_updated": "2026-09-05T18:32:52.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
