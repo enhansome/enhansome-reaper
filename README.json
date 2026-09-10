@@ -45,7 +45,7 @@
                 "open_issues": 18,
                 "owner": "cfillion",
                 "repo": "reapack",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "package-manager",
                   "reapack",
@@ -69,7 +69,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-03T10:22:49Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 160,
@@ -233,7 +233,7 @@
                 "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -514,7 +514,7 @@
                         "open_issues": 18,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 319545,
+                        "stars": 319756,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 50,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4567,
+                        "stars": 4568,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:26:54.978Z",
+    "last_updated": "2026-09-10T19:13:41.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
