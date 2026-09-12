@@ -66,7 +66,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## Scripts
 
-* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 406 | 🐛 28 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
+* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 405 | 🐛 28 | 🌐 Lua | 📅 2026-08-20 - Community-maintained collection of scripts for REAPER
 * [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2026-01-04.
 
 ## Video Editing
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 320,020 | 🐛 22 | 🌐 Python | 📅 2026-09-01.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,569 | 🐛 50 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 320,227 | 🐛 24 | 🌐 Python | 📅 2026-09-01.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,570 | 🐛 50 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -128,7 +128,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### Rust
 
-* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 121 | 🐛 25 | 🌐 Rust | 📅 2026-09-11 - Rust bindings for the Reaper C++ API.
+* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 121 | 🐛 25 | 🌐 Rust | 📅 2026-09-12 - Rust bindings for the Reaper C++ API.
 
 ## Learning
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
