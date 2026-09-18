@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
-                "open_issues": 506,
+                "open_issues": 507,
                 "owner": "reaper-oss",
                 "repo": "sws",
                 "stars": 580,
@@ -205,7 +205,7 @@
                 "open_issues": 5,
                 "owner": "geraintluff",
                 "repo": "jsfx",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -233,7 +233,7 @@
                 "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-15T16:48:04Z",
-                        "open_issues": 21,
+                        "open_issues": 23,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 321296,
+                        "stars": 321515,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:49:20.251Z",
+    "last_updated": "2026-09-18T19:09:17.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
