@@ -21,7 +21,7 @@
                 "open_issues": 506,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -154,7 +154,7 @@
                 "id": 132263529,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-14T20:26:29Z",
+                "last_commit": "2026-09-19T23:39:49Z",
                 "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
@@ -233,7 +233,7 @@
                 "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -510,11 +510,11 @@
                         "id": 21289110,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-18T22:11:03Z",
-                        "open_issues": 26,
+                        "last_commit": "2026-09-20T15:48:45Z",
+                        "open_issues": 19,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 321716,
+                        "stars": 321913,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 50,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4573,
+                        "stars": 4575,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:49:14.335Z",
+    "last_updated": "2026-09-20T19:01:05.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
@@ -698,7 +698,7 @@
       "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 139,
+      "stars": 140,
       "topics": [
         "awesome",
         "awesome-list",
