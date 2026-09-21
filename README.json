@@ -21,7 +21,7 @@
                 "open_issues": 506,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -338,7 +338,7 @@
                     "open_issues": 4,
                     "owner": "cfillion",
                     "repo": "reaimgui",
-                    "stars": 89,
+                    "stars": 88,
                     "topics": [
                       "binding",
                       "dear-imgui",
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-20T15:48:45Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 321913,
+                        "stars": 322129,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:01:05.705Z",
+    "last_updated": "2026-09-21T20:31:36.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
