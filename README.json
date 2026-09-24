@@ -155,10 +155,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-22T20:25:31Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
-                "stars": 644,
+                "stars": 645,
                 "topics": [
                   "jesusonic",
                   "jsfx",
@@ -184,7 +184,7 @@
                 "open_issues": 25,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 367,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -233,7 +233,7 @@
                 "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 411,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -514,7 +514,7 @@
                         "open_issues": 21,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 322538,
+                        "stars": 322750,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:47:02.716Z",
+    "last_updated": "2026-09-24T20:05:47.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
@@ -698,7 +698,7 @@
       "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 140,
+      "stars": 139,
       "topics": [
         "awesome",
         "awesome-list",
