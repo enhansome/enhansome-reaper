@@ -154,8 +154,8 @@
                 "id": 132263529,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-22T20:25:31Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-25T23:54:52Z",
+                "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
                 "stars": 645,
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-25T08:04:34Z",
-                        "open_issues": 20,
+                        "open_issues": 21,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 322971,
+                        "stars": 323256,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:06:33.141Z",
+    "last_updated": "2026-09-26T19:20:25.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
