@@ -21,7 +21,7 @@
                 "open_issues": 506,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 583,
+                "stars": 586,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -154,7 +154,7 @@
                 "id": 132263529,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-25T23:54:52Z",
+                "last_commit": "2026-09-26T21:32:31Z",
                 "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
@@ -180,7 +180,7 @@
                 "id": 438672944,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-13T10:23:18Z",
+                "last_commit": "2026-09-27T17:57:36Z",
                 "open_issues": 25,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
@@ -233,7 +233,7 @@
                 "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -510,11 +510,11 @@
                         "id": 21289110,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-25T08:04:34Z",
-                        "open_issues": 21,
+                        "last_commit": "2026-09-27T13:05:53Z",
+                        "open_issues": 22,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 323256,
+                        "stars": 323521,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:20:25.083Z",
+    "last_updated": "2026-09-27T19:51:09.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
