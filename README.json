@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
-                "open_issues": 506,
+                "open_issues": 507,
                 "owner": "reaper-oss",
                 "repo": "sws",
                 "stars": 586,
@@ -154,11 +154,11 @@
                 "id": 132263529,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-29T21:32:57Z",
+                "last_commit": "2026-09-30T21:35:49Z",
                 "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "jesusonic",
                   "jsfx",
@@ -514,7 +514,7 @@
                         "open_issues": 20,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 324316,
+                        "stars": 324520,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 50,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4578,
+                        "stars": 4579,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:57:42.939Z",
+    "last_updated": "2026-10-01T21:16:49.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
