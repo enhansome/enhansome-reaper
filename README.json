@@ -21,7 +21,7 @@
                 "open_issues": 509,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -45,7 +45,7 @@
                 "open_issues": 18,
                 "owner": "cfillion",
                 "repo": "reapack",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "package-manager",
                   "reapack",
@@ -514,7 +514,7 @@
                         "open_issues": 19,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 325394,
+                        "stars": 325511,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 50,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4579,
+                        "stars": 4582,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:53:01.252Z",
+    "last_updated": "2026-10-06T10:28:35.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
@@ -698,7 +698,7 @@
       "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 140,
+      "stars": 141,
       "topics": [
         "awesome",
         "awesome-list",
