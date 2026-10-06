@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-02T12:01:28Z",
-                        "open_issues": 19,
+                        "open_issues": 20,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 325511,
+                        "stars": 325638,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:35.670Z",
+    "last_updated": "2026-10-06T21:11:23.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
