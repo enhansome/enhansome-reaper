@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 325,638 | 🐛 20 | 🌐 Python | 📅 2026-10-02.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,582 | 🐛 50 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 325,877 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,583 | 🐛 50 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -128,7 +128,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### Rust
 
-* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 122 | 🐛 25 | 🌐 Rust | 📅 2026-09-12 - Rust bindings for the Reaper C++ API.
+* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 123 | 🐛 25 | 🌐 Rust | 📅 2026-09-12 - Rust bindings for the Reaper C++ API.
 
 ## Learning
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
