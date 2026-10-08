@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
-                "open_issues": 509,
+                "open_issues": 510,
                 "owner": "reaper-oss",
                 "repo": "sws",
                 "stars": 587,
@@ -69,7 +69,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-05T22:06:10Z",
-                "open_issues": 153,
+                "open_issues": 157,
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 162,
@@ -233,7 +233,7 @@
                 "open_issues": 29,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -514,7 +514,7 @@
                         "open_issues": 20,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 325877,
+                        "stars": 325906,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:31:21.651Z",
+    "last_updated": "2026-10-08T21:28:04.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
