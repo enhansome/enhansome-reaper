@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-10T08:49:11Z",
-                "open_issues": 510,
+                "open_issues": 511,
                 "owner": "reaper-oss",
                 "repo": "sws",
                 "stars": 588,
@@ -230,10 +230,10 @@
                 "language": "Lua",
                 "license": null,
                 "last_commit": "2026-09-30T11:22:04Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 425,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -362,8 +362,8 @@
                     "id": 660780639,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2024-05-16T14:01:02Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-13T21:26:31Z",
+                    "open_issues": 1,
                     "owner": "AntoineBalaine",
                     "repo": "perken-reaper-scripts",
                     "stars": 7,
@@ -415,7 +415,7 @@
                     "open_issues": 0,
                     "owner": "steeelydan",
                     "repo": "js2eel",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": [
                       "audio",
                       "audio-dsp",
@@ -514,7 +514,7 @@
                         "open_issues": 17,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 326915,
+                        "stars": 327163,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 49,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4586,
+                        "stars": 4584,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:10:36.773Z",
+    "last_updated": "2026-10-13T21:29:53.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
