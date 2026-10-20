@@ -45,7 +45,7 @@
                 "open_issues": 18,
                 "owner": "cfillion",
                 "repo": "reapack",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "package-manager",
                   "reapack",
@@ -158,7 +158,7 @@
                 "open_issues": 12,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "jesusonic",
                   "jsfx",
@@ -233,7 +233,7 @@
                 "open_issues": 29,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 445,
+                "stars": 448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -514,7 +514,7 @@
                         "open_issues": 16,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 328714,
+                        "stars": 328991,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:12:52.396Z",
+    "last_updated": "2026-10-20T20:06:17.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
@@ -698,7 +698,7 @@
       "open_issues": 2,
       "owner": "indiscipline",
       "repo": "awesome-reaper",
-      "stars": 143,
+      "stars": 142,
       "topics": [
         "awesome",
         "awesome-list",
