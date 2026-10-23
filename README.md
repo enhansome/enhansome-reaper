@@ -79,7 +79,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 * [ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates) ⭐ 91 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations. [Forum thread](https://forum.cockos.com/showthread.php?t=172123).
 * [ReaImGui](https://github.com/cfillion/reaimgui) ⚠️ Archived - ReaImGui: ReaScript binding for Dear ImGui.
-* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 2 | 🌐 Lua | 📅 2026-10-22 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
+* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 2 | 🌐 Lua | 📅 2026-10-23 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
 
 ### JSFX / EEL2 resources
 
@@ -107,7 +107,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 329,466 | 🐛 18 | 🌐 Python | 📅 2026-10-22.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 329,704 | 🐛 17 | 🌐 Python | 📅 2026-10-22.
 * [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,588 | 🐛 51 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
