@@ -21,7 +21,7 @@
                 "open_issues": 510,
                 "owner": "reaper-oss",
                 "repo": "sws",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "reaper",
                   "reaper-plugin"
@@ -181,10 +181,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-11T13:06:10Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -233,7 +233,7 @@
                 "open_issues": 30,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -510,11 +510,11 @@
                         "id": 21289110,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-22T19:52:53Z",
+                        "last_commit": "2026-10-25T15:33:49Z",
                         "open_issues": 17,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 329961,
+                        "stars": 330225,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -657,7 +657,7 @@
                         "id": 236808376,
                         "language": "Rust",
                         "license": "MIT",
-                        "last_commit": "2026-10-19T17:23:03Z",
+                        "last_commit": "2026-10-25T09:29:21Z",
                         "open_issues": 25,
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:57:26.880Z",
+    "last_updated": "2026-10-25T19:13:12.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
