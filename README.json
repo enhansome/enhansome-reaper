@@ -69,7 +69,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-17T00:47:52Z",
-                "open_issues": 150,
+                "open_issues": 155,
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 162,
@@ -233,7 +233,7 @@
                 "open_issues": 30,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 457,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -362,8 +362,8 @@
                     "id": 660780639,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-29T16:44:23Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-30T20:58:52Z",
+                    "open_issues": 4,
                     "owner": "AntoineBalaine",
                     "repo": "perken-reaper-scripts",
                     "stars": 7,
@@ -514,7 +514,7 @@
                         "open_issues": 22,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 331173,
+                        "stars": 331382,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 52,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4593,
+                        "stars": 4594,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -657,7 +657,7 @@
                         "id": 236808376,
                         "language": "Rust",
                         "license": "MIT",
-                        "last_commit": "2026-10-25T09:29:21Z",
+                        "last_commit": "2026-10-30T17:30:08Z",
                         "open_issues": 25,
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:22:57.066Z",
+    "last_updated": "2026-10-30T20:59:59.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
