@@ -60,13 +60,13 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## JSFX
 
-* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 653 | 🐛 13 | 🌐 Lua | 📅 2026-10-17 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
+* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 655 | 🐛 13 | 🌐 Lua | 📅 2026-10-17 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
 * [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). [Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS) ⭐ 370 | 🐛 28 | 🌐 HTML | 📅 2026-10-11, [Youtube](https://www.youtube.com/@johnmatthews8435) [forum thread](https://forums.cockos.com/showthread.php?p=2506848).
 * [geraintluff/jsfx](https://geraintluff.github.io/jsfx/) - Collection of JSFX effects by Geraint Luff (aka geraintluff). [Repo](https://github.com/geraintluff/jsfx) ⭐ 226 | 🐛 5 | 🌐 HTML | 📅 2023-07-31, [Youtube playlist](https://www.youtube.com/watch?v=QLh6b88OvFs\&list=PLflIiXZOocKqgKexrkTxxtl6igGUWnpXK), [forum thread](https://forums.cockos.com/showthread.php?t=186554).
 
 ## Scripts
 
-* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 458 | 🐛 30 | 🌐 Lua | 📅 2026-09-30 - Community-maintained collection of scripts for REAPER
+* [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) ⭐ 458 | 🐛 32 | 🌐 Lua | 📅 2026-09-30 - Community-maintained collection of scripts for REAPER
 * [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/) ⭐ 5 | 🐛 1 | 🌐 Lua | 📅 2026-01-04.
 
 ## Video Editing
@@ -79,7 +79,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 * [ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates) ⭐ 91 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations. [Forum thread](https://forum.cockos.com/showthread.php?t=172123).
 * [ReaImGui](https://github.com/cfillion/reaimgui) ⚠️ Archived - ReaImGui: ReaScript binding for Dear ImGui.
-* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 4 | 🌐 Lua | 📅 2026-10-30 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
+* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 4 | 🌐 Lua | 📅 2026-10-31 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
 
 ### JSFX / EEL2 resources
 
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 331,382 | 🐛 22 | 🌐 Python | 📅 2026-10-29.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,594 | 🐛 52 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 331,574 | 🐛 23 | 🌐 Python | 📅 2026-10-31.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,595 | 🐛 52 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
