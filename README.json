@@ -69,7 +69,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-03T11:38:15Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "jcsteh",
                 "repo": "osara",
                 "stars": 162,
@@ -154,8 +154,8 @@
                 "id": 132263529,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-17T20:25:38Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-04T19:48:54Z",
+                "open_issues": 13,
                 "owner": "JoepVanlier",
                 "repo": "JSFX",
                 "stars": 657,
@@ -205,7 +205,7 @@
                 "open_issues": 5,
                 "owner": "geraintluff",
                 "repo": "jsfx",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -362,8 +362,8 @@
                     "id": 660780639,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-11-02T04:24:29Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-03T22:28:14Z",
+                    "open_issues": 1,
                     "owner": "AntoineBalaine",
                     "repo": "perken-reaper-scripts",
                     "stars": 7,
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-02T04:36:52Z",
-                        "open_issues": 24,
+                        "open_issues": 18,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 332248,
+                        "stars": 332502,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 52,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4595,
+                        "stars": 4593,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -661,7 +661,7 @@
                         "open_issues": 25,
                         "owner": "helgoboss",
                         "repo": "reaper-rs",
-                        "stars": 126,
+                        "stars": 127,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:56:11.652Z",
+    "last_updated": "2026-11-04T22:07:39.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",

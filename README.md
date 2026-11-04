@@ -51,7 +51,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 * [SWS / S\&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws) ⭐ 593 | 🐛 512 | 🌐 C++ | 📅 2026-05-10, [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
 * [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack) ⚠️ Archived, [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
-* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 162 | 🐛 152 | 🌐 C++ | 📅 2026-11-03.
+* [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara) ⭐ 162 | 🐛 153 | 🌐 C++ | 📅 2026-11-03.
 * [ReaLlm](https://github.com/ak5k/reallm) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
 
 ## Software and tools
@@ -60,9 +60,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ## JSFX
 
-* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 657 | 🐛 14 | 🌐 Lua | 📅 2026-10-17 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
+* [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) ⭐ 657 | 🐛 13 | 🌐 Lua | 📅 2026-11-04 - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
 * [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). [Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS) ⭐ 373 | 🐛 28 | 🌐 HTML | 📅 2026-10-11, [Youtube](https://www.youtube.com/@johnmatthews8435) [forum thread](https://forums.cockos.com/showthread.php?p=2506848).
-* [geraintluff/jsfx](https://geraintluff.github.io/jsfx/) - Collection of JSFX effects by Geraint Luff (aka geraintluff). [Repo](https://github.com/geraintluff/jsfx) ⭐ 226 | 🐛 5 | 🌐 HTML | 📅 2023-07-31, [Youtube playlist](https://www.youtube.com/watch?v=QLh6b88OvFs\&list=PLflIiXZOocKqgKexrkTxxtl6igGUWnpXK), [forum thread](https://forums.cockos.com/showthread.php?t=186554).
+* [geraintluff/jsfx](https://geraintluff.github.io/jsfx/) - Collection of JSFX effects by Geraint Luff (aka geraintluff). [Repo](https://github.com/geraintluff/jsfx) ⭐ 227 | 🐛 5 | 🌐 HTML | 📅 2023-07-31, [Youtube playlist](https://www.youtube.com/watch?v=QLh6b88OvFs\&list=PLflIiXZOocKqgKexrkTxxtl6igGUWnpXK), [forum thread](https://forums.cockos.com/showthread.php?t=186554).
 
 ## Scripts
 
@@ -79,7 +79,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 * [ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates) ⭐ 91 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations. [Forum thread](https://forum.cockos.com/showthread.php?t=172123).
 * [ReaImGui](https://github.com/cfillion/reaimgui) ⚠️ Archived - ReaImGui: ReaScript binding for Dear ImGui.
-* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 2 | 🌐 Lua | 📅 2026-11-02 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
+* [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2026-11-03 - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2022-04-17 to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
 
 ### JSFX / EEL2 resources
 
@@ -107,8 +107,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### General documentation and resources
 
-* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 332,248 | 🐛 24 | 🌐 Python | 📅 2026-11-02.
-* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,595 | 🐛 52 | 📅 2024-08-11.
+* [Python Documentation](https://docs.python.org/3) - The official Python documentation. See also [awesome-python/Resources](https://github.com/vinta/awesome-python#resources) ⭐ 332,502 | 🐛 18 | 🌐 Python | 📅 2026-11-02.
+* [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation. See also: [awesome-lua/Resources](https://github.com/LewisJEllis/awesome-lua#resources) ⭐ 4,593 | 🐛 52 | 📅 2024-08-11.
 * [C++ Language Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The Microsoft C++ documentation.
 * [C++ Reference](https://cppreference.com)
 
@@ -128,7 +128,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### Rust
 
-* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 126 | 🐛 25 | 🌐 Rust | 📅 2026-11-03 - Rust bindings for the Reaper C++ API.
+* [reaper-rs](https://github.com/helgoboss/reaper-rs) ⭐ 127 | 🐛 25 | 🌐 Rust | 📅 2026-11-03 - Rust bindings for the Reaper C++ API.
 
 ## Learning
 
@@ -181,4 +181,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
