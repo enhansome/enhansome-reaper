@@ -184,7 +184,7 @@
                 "open_issues": 28,
                 "owner": "TukanStudios",
                 "repo": "TUKAN_STUDIOS_PLUGINS",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -233,7 +233,7 @@
                 "open_issues": 32,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 468,
+                "stars": 469,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -510,11 +510,11 @@
                         "id": 21289110,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-13T05:14:16Z",
+                        "last_commit": "2026-11-14T17:06:55Z",
                         "open_issues": 23,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 334550,
+                        "stars": 334750,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:07:00.013Z",
+    "last_updated": "2026-11-14T20:53:59.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
