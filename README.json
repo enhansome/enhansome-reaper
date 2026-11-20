@@ -229,7 +229,7 @@
                 "id": 46741198,
                 "language": "Lua",
                 "license": null,
-                "last_commit": "2026-11-08T00:11:29Z",
+                "last_commit": "2026-11-20T11:58:23Z",
                 "open_issues": 31,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
@@ -511,10 +511,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-17T10:02:01Z",
-                        "open_issues": 21,
+                        "open_issues": 22,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 335900,
+                        "stars": 336054,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:11:16.272Z",
+    "last_updated": "2026-11-20T22:47:12.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
