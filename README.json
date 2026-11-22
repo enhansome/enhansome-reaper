@@ -233,7 +233,7 @@
                 "open_issues": 31,
                 "owner": "ReaTeam",
                 "repo": "ReaScripts",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:51.738Z"
@@ -514,7 +514,7 @@
                         "open_issues": 22,
                         "owner": "vinta",
                         "repo": "awesome-python",
-                        "stars": 336256,
+                        "stars": 336471,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -542,7 +542,7 @@
                         "open_issues": 53,
                         "owner": "LewisJEllis",
                         "repo": "awesome-lua",
-                        "stars": 4594,
+                        "stars": 4595,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:38:51.738Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:50:44.176Z",
+    "last_updated": "2026-11-22T21:58:25.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Reaper resources, scripts, extensions, JSFX, software and community links",
